@@ -1,5 +1,7 @@
 # Curve-GCN
 
+**<u>*CalmCat will program the Interactive Image Segmentation</u>**** 
+
 This is the official PyTorch implementation of Curve-GCN (CVPR 2019). This repository allows you to train new Curve-GCN models. For technical details, please refer to:  
 ----------------------- ------------------------------------
 **Fast Interactive Object Annotation with Curve-GCN**  
